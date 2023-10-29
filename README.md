@@ -13,7 +13,7 @@ go run . /path/to/cputest/file.COM
 ```
 to see test output. (Warning: 8080EXM.COM takes quite long to finish and tells me I still have a bug somewhere.)
 
-* It can be used to emulate the Space Invaders Arcade Cabinet.
+* It can be used to emulate the Space Invaders Arcade Cabinet, see [my implementation](https://github.com/Krawabbel/go-invaders/) 
 
 ## Resources
 

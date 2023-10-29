@@ -30,7 +30,7 @@ to see test output. (Warning: 8080EXM.COM takes quite long to finish and tells m
 * Intel 8080 emulation tutorial: http://www.emulator101.com/
 * Intel 8080 data sheet: https://deramp.com/downloads/intel/8080%20Data%20Sheet.pdf
 
-## Other Implementations
+## Reference Implementations
 * https://github.com/superzazu/8080/
 * https://github.com/tobiasvl/lua-8080/
 

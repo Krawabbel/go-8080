@@ -1,6 +1,10 @@
 # go-8080
 an Intel 8080 emulator written in Go (Golang)
 
+[![Go](https://github.com/Krawabbel/go-8080/actions/workflows/go.yml/badge.svg)](https://github.com/Krawabbel/go-8080/actions/workflows/go.yml)
+
+[![Go Coverage](https://github.com/Krawabbel/go-8080/wiki/coverage.svg)](https://raw.githack.com/wiki/Krawabbel/go-8080/coverage.html)
+
 (also contains a minimal implementation of CP/M to run CPU tests)
 
 * It passes (almost) all CPU tests that I could find. Run 
@@ -27,7 +31,7 @@ to see test output. (Warning: 8080EXM.COM takes quite long to finish and tells m
 * Intel 8080 data sheet: https://deramp.com/downloads/intel/8080%20Data%20Sheet.pdf
 
 ## Other Implementations
-* https://github.com/superzazu/8080/blob/master/i8080.c
+* https://github.com/superzazu/8080/
 * https://github.com/tobiasvl/lua-8080/
 
 

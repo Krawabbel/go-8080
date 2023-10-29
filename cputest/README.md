@@ -1,0 +1,1 @@
+taken from https://altairclone.com/downloads/cpu_tests/
